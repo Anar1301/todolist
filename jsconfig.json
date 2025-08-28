@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "paths": {
-      "@/*": ["Todo-list/src/*"]
+      "@/*": ["todolist/src/*"]
     }
   }
 }
